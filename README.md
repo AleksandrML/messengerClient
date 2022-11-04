@@ -1,4 +1,4 @@
-messengerServer project
+messengerClient project
 
 To use a client properly you have to set port number and ip to settings.txt (as it is shown in settings.txt file).
 Then, the server will accept socket connections of any clients which start communication with message in form as:
